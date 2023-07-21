@@ -82,8 +82,8 @@ for numero in range(0, 11):
 # será exclusivo, por isso sempre vai ser o ultimo elemento menos 1.
 
 # outro exemplo 
-# Observe que nos argumentos do range tesmo o start que é o 5 é onde inicia, em seguida o final 
-# que é o 51, e por ultimo o step que é de quanto em quanto vai ser no exemplo aqui foi o 5 ou seja
+# Observe que nos argumentos do range temos o start que é o 5 é onde inicia, em seguida o final 
+# que é o 51, e por ultimo o step que é de quanto em quanto vai ser, no exemplo aqui foi o 5 ou seja
 # de 5 em 5 ele vai percorrendo. PS- o end está sendo usado apenas para a contagem ser exibida um ao 
 # lado do outro, se utilizarmos print(numero) será exibido um abaixo do outro.
 for numero in range(0, 51, 5):
